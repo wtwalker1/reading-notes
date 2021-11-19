@@ -8,3 +8,4 @@
 - [Learning from Class One](GrowthMindset.md)
 - [3 Growth Mindset Reminders](3Reminder.md)
 - [CCS Notes](Class5readingnotes.md)
+- [Class 6 Reading Reflection](Class6Reading.md)
