@@ -10,3 +10,4 @@
 - [CCS Notes](Class5readingnotes.md)
 - [Class 6 Reading Reflection](Class6Reading.md)
 - [Class 7 Reading Reflection](Class7Reading.md)
+- [Class 8 Reading Reflection](Class8Reading.md)
