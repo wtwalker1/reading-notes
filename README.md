@@ -16,3 +16,4 @@
 - [Class 8 Reading Reflection](Class8Reading.md)
 
 ### Class 201 Readings
+- [Class 1 Reading](class-01.md)
