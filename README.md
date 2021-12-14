@@ -17,3 +17,4 @@
 
 ### Class 201 Readings
 - [Class 1 Reading](class-01.md)
+- [Class 2 Reading](class-02.md)
